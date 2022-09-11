@@ -1,4 +1,5 @@
 # cursos
+This project is part of the content of the first after class for the students of the CoderHouse Vue.js course.
 
 ## Project setup
 ```
